@@ -1,0 +1,5 @@
+# ninja log v5
+1	12988	1627353609719275323	/data1/user12/PPR10K/code_3DLUT/trilinear_cpp/build/temp.linux-x86_64-3.7/src/trilinear_kernel.o	d952a2774b4fb7f
+0	17342	1627353614071273293	/data1/user12/PPR10K/code_3DLUT/trilinear_cpp/build/temp.linux-x86_64-3.7/src/trilinear_cuda.o	f60c2f34555ac78a
+1	7926	1633922838355518275	/data1/user12/PPR10K_LCZ/code_3DLUT/trilinear_cpp/build/temp.linux-x86_64-3.7/src/trilinear_kernel.o	674572bffc4ab1d5
+0	16479	1633922846907455678	/data1/user12/PPR10K_LCZ/code_3DLUT/trilinear_cpp/build/temp.linux-x86_64-3.7/src/trilinear_cuda.o	92fed4dad8337285
